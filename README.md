@@ -1,2 +1,2 @@
 # hello-world
-a new start
+Just to get familiar with GitHub.
